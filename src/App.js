@@ -1,6 +1,6 @@
 import { useState } from 'react';
 
-// JS Library to get colors.
+// Library to get the colors.
 const randomColor = require('randomcolor');
 
 // Component and state declaration.
